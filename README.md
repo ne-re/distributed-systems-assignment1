@@ -6,7 +6,7 @@ This project implements a multi-threaded distributed banking server and client t
 ---
 
 ## Demo Videos & Technical Report
-- **Demo Videos (Google Drive):** [INSERT_GOOGLE_DRIVE_LINK_HERE]
+- **Demo Videos (Google Drive):** https://drive.google.com/drive/folders/1SjGmSgCz2QG5Z2hTkijVriClE1VL4BPc?usp=drive_link
   - `Demo 1`: Base Requirements (Normal Operations, Error Handling, Concurrency, Atomicity, Max Clients Limit, Durability)
   - `Demo 2`: Advanced Bonus (Primary-Backup Synchronous Replication, Automatic Failover, Idempotency)
   - `Demo 3`: Extreme Bonus (Network Partition Simulation, 3-Node Quorum Witness, Split-Brain Prevention, State Reconciliation)
