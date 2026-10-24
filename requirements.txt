@@ -1,0 +1,3 @@
+# Built exclusively using the Python 3 Standard Library (socket, sqlite3, threading, json, argparse, uuid, time).
+# Python Version: >= 3.10
+# No external pip packages are required.
